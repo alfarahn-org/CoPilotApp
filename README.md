@@ -24,5 +24,3 @@ To get started with CoPilotApp, follow these steps:
 We welcome contributions from the community! Feel free to submit issues and pull requests. Let's work together to make CoPilotApp even better.  
   
 ---  
-  
-*Note: Remember, this is just a template. You may want to modify it according to your needs.*  
